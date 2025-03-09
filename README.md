@@ -2,7 +2,6 @@
 
 A fun, interactive web game where players pop colorful clouds as they float up the screen to earn points. Built with HTML, CSS, and JavaScript, this game is optimized for both desktop and mobile devices.
 
-![Game Screenshot](screenshot.png) <!-- Add a screenshot if you have one -->
 
 ## Features
 
